@@ -1,0 +1,20 @@
+{
+  "name": "Handy Helper",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "Helper16px.png",
+      "48": "Helper48px.png",
+      "128": "Helper128px.png"
+    },
+    "icon": "Helperr-1.png",
+    "default_title": "Handy helper",
+    "default_width": 1000,
+    "default_height": 1000,
+    "permissions": [
+      "activeTab"
+    ]
+  }
+}
